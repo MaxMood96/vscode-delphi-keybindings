@@ -434,7 +434,7 @@
         "webpack": "^4.44.1",
         "webpack-cli": "^3.3.12",
         "@types/mocha": "^7.0.2",
-        "mocha": "^7.1.2",
+        "mocha": "^9.1.2",
         "vscode-test": "^1.3.0"
     }
 }
